@@ -97,18 +97,9 @@ The converter creates:
 - Processing time depends on PDF size and complexity
 - API usage limits apply based on your Mistral AI plan
 
-## Contributing
-
-Feel free to:
-- Open issues for bugs
-- Submit pull requests with improvements
-- Suggest new features
-
-## License
-
-[Your chosen license]
 
 ## Acknowledgments
 
 - Mistral AI for the OCR API
 - Python community for the excellent libraries 
+- Original ipynb approach - https://github.com/diegomarzaa/pdf-ocr-obsidian/
